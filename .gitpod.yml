@@ -10,6 +10,15 @@ ports:
   - port: 8080
     onOpen: open-browser
     visibility: public
+  - port: 3360
+    onOpen: open-browser
+    visibility: public
+  - port: 33060
+    onOpen: open-browser
+    visibility: public
+  - port: 5500
+    onOpen: open-browser
+    visibility: public
 
 vscode:
   extensions:
