@@ -19,7 +19,7 @@ ports:
   - port: 5500
     onOpen: open-browser
     visibility: public
-
+    
 vscode:
   extensions:
     - felixfbecker.php-debug
